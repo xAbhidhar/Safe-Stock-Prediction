@@ -10,23 +10,22 @@ Develop a predictive model to recommend investors to find the stocks which are s
 Regression is a form of predictive modelling technique with helps is investiagting the relation between the target or dependent variable and the predictor or independent variable(s). This has various uses like time series modelling, forecasting etc. In regression, we fit a line to the data points such that the differences between the distances of the data points from the curve is minimized.
 
 ## Support Vector Machines (SVM)
+Support Vector Machine or SVM is a supervised type of machine learning which can be used for both classification and regression. When the SVM is used for regression it is called Support Vector Regression. It is considered as a non parametric technique because it relies on kernel functions.
 
 ## Implementation
 
-### Data collection and Data Preprocesing
+#### Data collection and Data Preprocesing
 Data was collected from yahoo finance for last 30 days. The downloaded data is in the form of a CSV file. The file is read and converted into pandas dataframe. Preprocessing was an important step for the model as data downloaded from Yahoo Finance contains data which is of no use to the predicting model. Unnecessary data was to be removed from the input file like volume of stocks and other parameters which were of no use to the model.
 
-### Choosing a model
+#### Model Selection
 
-### Training
+#### Training
 
-### Evaluation
+#### Evaluation
 
-### Hyperparameter tuning
+#### Hyperparameter tuning
 
-### Prediction
-
-## Dataset
+#### Prediction
    
 ## Evaluation
 
