@@ -4,14 +4,17 @@ The erratic nature of stock market makes it extremely difficult to predict. Sinc
 The objective of this project included the analysis of data and to recommend recent hot and safe stocks for the investors to pick relatively. This project shows an example of implementing regression for predicting stock market prices with the help of Support Vector Machines.
 
 ## Problem Statement
-Develop a python application to recommend investors to find the stocks which are safe to buy relative to their interested investment fields.
+Develop a predictive model to recommend investors to find the stocks which are safe to buy relative to their interested investment fields.
 
 ## Regression
+Regression is a form of predictive modelling technique with helps is investiagting the relation between the target or dependent variable and the predictor or independent variable(s). This has various uses like time series modelling, forecasting etc. In regression, we fit a line to the data points such that the differences between the distances of the data points from the curve is minimized.
+
+## Support Vector Machines (SVM)
 
 ## Implementation
 
 ### Data collection and Data Preprocesing
-Data was collected from yahoo finance for last 30 days. Preprocessing was an important step for the model as data downloaded from Yahoo Finance in the form of stock prices. Unnecessary data was to be removed from the input file like volume of stocks and other parameters which were of no use to the model.
+Data was collected from yahoo finance for last 30 days. The downloaded data is in the form of a CSV file. The file is read and converted into pandas dataframe. Preprocessing was an important step for the model as data downloaded from Yahoo Finance contains data which is of no use to the predicting model. Unnecessary data was to be removed from the input file like volume of stocks and other parameters which were of no use to the model.
 
 ### Choosing a model
 
