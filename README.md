@@ -24,6 +24,7 @@ Data was collected from yahoo finance for last 30 days. The downloaded data is i
 #### Evaluation
 
 #### Hyperparameter tuning
+Tuned various hyperpaprameters
 
 #### Prediction
    
