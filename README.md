@@ -17,14 +17,10 @@ Support Vector Machine or SVM is a supervised type of machine learning which can
 #### Data collection and Data Preprocesing
 Data was collected from yahoo finance for last 30 days. The downloaded data is in the form of a CSV file. The file is read and converted into pandas dataframe. Preprocessing was an important step for the model as data downloaded from Yahoo Finance contains data which is of no use to the predicting model. Unnecessary data was to be removed from the input file like volume of stocks and other parameters which were of no use to the model.
 
-#### Model Selection
+
 
 #### Training
 
-
-
-#### Hyperparameter tuning
-Tuned various hyperpaprameters
 
 
    
