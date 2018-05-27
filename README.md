@@ -21,7 +21,7 @@ Data was collected from yahoo finance for last 30 days. The downloaded data is i
 
 #### Training
 
-
+Trained the model with linear and Radial Basis Function (RBF kernel).
 
    
 ## Evaluation
