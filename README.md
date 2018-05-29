@@ -34,7 +34,7 @@ Trained the model with linear and Radial Basis Function (RBF kernel).
 
 ## Results
 
-
+Predicted safe stocks using both linear and RBF kernels.
 
 
 
