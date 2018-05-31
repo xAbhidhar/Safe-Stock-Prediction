@@ -21,7 +21,7 @@ Data was collected from yahoo finance for last 30 days. The downloaded data is i
 
 #### Training
 
-Trained the model with linear and Radial Basis Function (RBF kernel).
+Trained the model with linear and Radial Basis Function (RBF kernel). Changed hyperparameters to get better accuracy.
 
    
 ## Evaluation
@@ -34,7 +34,7 @@ Trained the model with linear and Radial Basis Function (RBF kernel).
 
 ## Results
 
-Predicted safe stocks using both linear and RBF kernels.
+Predicted safe stocks using both linear and RBF kernels with SVR.
 
 
 
